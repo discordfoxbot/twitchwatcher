@@ -2,6 +2,7 @@
   "dependencies": {
     "bluebird": "^3.4.1",
     "cron": "^1.1.0",
+    "db": "github:discordfoxbot/database",
     "ioredis": "^2.2.0",
     "mysql": "^2.11.1",
     "path": "^0.12.7",
